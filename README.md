@@ -1,7 +1,7 @@
 <!-- 🔥 Animated Intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Priya+Yadav;Aspiring+Machine+Learning+Engineer;Building+Real+World+AI+Projects;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Priya+Yadav;Aspiring+Machine+Learning+Engineer;Building+Real+World+AI+Projects;Future+Software+Engineer+🚀" />
 </p>
 
 <h3 align="center">🤖 AI & Machine Learning Enthusiast | BTech CSE Student</h3>
